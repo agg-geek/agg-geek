@@ -7,6 +7,7 @@ Backend software engineer at Amazon in Bengaluru. I build scalable distributed s
 - 💬 Ask me about: Java, AWS, distributed systems, data structures and algorithms
 
 **Tech**
+
 Java · Spring Boot · AWS · OpenSearch · Apache Spark · Python · JavaScript · TypeScript · React
 
 **Find me**
