@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Abhinav 👋
 
-<!--
-**agg-geek/agg-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend software engineer at Amazon in Bengaluru. I build scalable distributed systems with Java, Spring Boot and AWS.
 
-Here are some ideas to get you started:
+- 🔭 Working on: large-scale search and data systems
+- 🌱 Learning: system design and data structures and algorithms
+- 💬 Ask me about: Java, AWS, distributed systems, data structures and algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech**
+Java · Spring Boot · AWS · OpenSearch · Apache Spark · Python · JavaScript · TypeScript · React
+
+**Find me**
+- [LinkedIn](https://www.linkedin.com/in/abhi-agg/)
+- [LeetCode](https://leetcode.com/abhiagg/): Knight, rating 2057
+- Email: mrabhiagg@gmail.com
